@@ -1,0 +1,12 @@
+HEADER:
+    Name;
+    A Brief Tagline;
+
+SECTION:
+    About me;
+
+TABLE:
+    List of skills and tools with proficiency level;
+
+A CONTACT FORM:
+    Name, email, and message.
